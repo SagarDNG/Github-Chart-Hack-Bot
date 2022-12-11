@@ -10,7 +10,7 @@
 git clone https://github.com/YOUR_USERNAME_HERE/Github-Chart-Hack-Bot
 ```
 
-2) move on to the folder
+2) Move on to the folder
 
 ```
 cd Github-Chart-Hack-Bot
@@ -37,5 +37,4 @@ node index.js
 ### Check your Github Chart, it would have turned green.
 ### To make it more green run the 5th command again & again OR Increase the argument value of makeCommit function in index.js
 
-
--Coded by [SagarDNG](https://sagardng123.wixsite.com/SagarDNG)
+### ---Coded by [SagarDNG](https://sagardng123.wixsite.com/SagarDNG)
