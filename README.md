@@ -4,32 +4,38 @@
 
 ## Instructions to Hack your Github Chart, and make it more Green :)
 
-1) Open GitBash, go to the appropriate directory and Clone this Repo
+1) Fork this repo, Open GitBash, go to the appropriate directory and Clone it
 
 ```
-git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
+git clone https://github.com/YOUR_USERNAME_HERE/Github-Chart-Hack-Bot
 ```
 
-1) Open GitBash, go to the appropriate directory and Clone this Repo
+2) move on to the folder
 
 ```
-git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
+cd Github-Chart-Hack-Bot
 ```
 
-1) Open GitBash, go to the appropriate directory and Clone this Repo
+3) Open your code editor
 
 ```
-git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
+code .
 ```
 
-1) Open GitBash, go to the appropriate directory and Clone this Repo
+4) Install required packeges 
 
 ```
-git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
+npm i
 ```
 
+5) Run the code 
 
+```
+node index.js
+```
 
+### Check your Github Chart, it would have turned green.
+### To make it more green run the 5th command again & again OR Increase the argument value of makeCommit function in index.js
 
 
 -Coded by [SagarDNG](https://sagardng123.wixsite.com/SagarDNG)
