@@ -1,0 +1,17 @@
+{
+  "name": "github-chart-hack",
+  "version": "1.0.0",
+  "description": "Hacking the github Chart (Only for Educational purposes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SagarDNG",
+  "license": "ISC",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.10.0"
+  }
+}
