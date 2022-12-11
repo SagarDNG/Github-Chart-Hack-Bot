@@ -4,10 +4,32 @@
 
 ## Instructions to Hack your Github Chart, and make it more Green :)
 
-Clone this Repo
+1) Open GitBash, go to the appropriate directory and Clone this Repo
 
 ```
 git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
 ```
+
+1) Open GitBash, go to the appropriate directory and Clone this Repo
+
+```
+git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
+```
+
+1) Open GitBash, go to the appropriate directory and Clone this Repo
+
+```
+git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
+```
+
+1) Open GitBash, go to the appropriate directory and Clone this Repo
+
+```
+git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
+```
+
+
+
+
 
 -Coded by [SagarDNG](https://sagardng123.wixsite.com/SagarDNG)
