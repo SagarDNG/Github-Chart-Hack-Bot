@@ -3,14 +3,13 @@ const moment = require('moment');
 const simpleGit = require('simple-git');
 const random = require('random');
 
-const filePath = '.data.json';
+const filePath = './data.json';
 
 const makeCommit = n => {
     if (n === 0) return simpleGit().push();
     let x = random.int(0, 54);
     let y = random.int(0, 6);
-    const Date = moment().subtract(1, 'y').add(1, 'd')
-        .add(x, 'w').add(y, 'd').format();
+    const Date = moment().subtract(1, 'y').add(x, 'w').add(y, 'd').format();
     const data = {
         date: Date
     }
@@ -21,4 +20,4 @@ const makeCommit = n => {
     });
 }
 
-makeCommit(500);
+makeCommit(10);
