@@ -34,7 +34,7 @@ npm i
 node index.js
 ```
 
-### Check your Github Chart, it would have turned green.
+### Check your Github Chart, it would have turned green :))
 ### To make it more green run the 5th command again & again OR Increase the argument value of makeCommit function in index.js
 
 ### To undo the changes, just make the repo private(if your GitHub doesn't include private contributions on your profile) OR Delete the Repo
