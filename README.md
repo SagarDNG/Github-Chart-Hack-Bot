@@ -34,7 +34,7 @@ npm i
 node index.js
 ```
 
-### Check your Github Chart, it would have turned green.
-### To make it more green run the 5th command again & again OR Increase the argument value of makeCommit function in index.js
+#### Check your Github Chart, it would have turned green.
+#### To make it more green run the 5th command again & again OR Increase the argument value of makeCommit function in index.js
 
 ### ---Coded by [SagarDNG](https://sagardng123.wixsite.com/SagarDNG)
