@@ -1,8 +1,6 @@
-# Chart Hack Bot
+# Github Chart Hack Bot
 
-### [Youtube Tutorial](https://www.youtube.com/watch?v=2q--gA97caM)
-
-### It's only for Educational Purposes
+### It's only for Educational Purposes [[Youtube Tutorial](https://www.youtube.com/watch?v=2q--gA97caM)]
 
 ## Instructions to Hack your Github Chart, and make it more Green :)
 
