@@ -4,6 +4,6 @@
 
 ### It's only for Educational Purposes
 
-## Instructions
+## Instructions to Hack your Github Chart, and make it more Green :)
 
 -Coded by [SagarDNG](https://sagardng123.wixsite.com/SagarDNG)
