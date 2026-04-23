@@ -7,7 +7,7 @@
 1) Fork this repo, Open GitBash, go to the appropriate directory and Clone it
 
 ```
-git clone https://github.com/YOUR_USERNAME_HERE/Github-Chart-Hack-Bot
+git clone https://github.com/SagarDNG/Github-Chart-Hack-Bot
 ```
 
 2) Move on to the folder
